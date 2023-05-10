@@ -1,0 +1,10 @@
+.height{
+    display: flex;
+}
+.width{
+    margin: 0px;
+    outline: 1px solid black;
+}
+.hover {
+    background-color: black;
+}
